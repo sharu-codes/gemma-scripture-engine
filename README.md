@@ -6,8 +6,8 @@ A RAG-powered spiritual Q&A assistant that answers questions with **cited verses
 
 ## 🔗 Links
 
-- 👤 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 📓 **Kaggle Notebook:** [Open on Kaggle](https://www.kaggle.com/YOUR_USERNAME/YOUR_NOTEBOOK)
+- **Kaggle Notebook:** [Open on Kaggle] (https://www.kaggle.com/code/snehomitadatta/hackathon)
+- **YouTube Link:** [YouTube] (youtube.com/watch?v=GJh5DYwR64U&time_continue=1&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fwww.kaggle.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.kaggle.com)
 
 ---
 
@@ -104,6 +104,11 @@ This appears to be a ZeroGPU quota/infrastructure issue — the code itself is c
 
 **All Scriptures Clean** by [@sharucodes](https://www.kaggle.com/sharucodes) on Kaggle
 Contains translated verses from: Bhagavad Gita · Quran · Guru Granth Sahib · Bible
+
+* Gita: https://github.com/vedicscriptures/bhagavad-gita
+* Quran: https://github.com/malekverse/quran-dataset
+* Guru Granth Sahib: https://github.com/saihaj/GurbaniNowApi
+* Bible: https://github.com/scrollmapper/bible_databases
 
 ---
 
