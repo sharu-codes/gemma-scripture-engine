@@ -7,7 +7,7 @@ A RAG-powered spiritual Q&A assistant that answers questions with **cited verses
 ## 🔗 Links
 
 - **Kaggle Notebook:** [Open on Kaggle] (https://www.kaggle.com/code/snehomitadatta/hackathon)
-- **YouTube Link:** [YouTube] (youtube.com/watch?v=GJh5DYwR64U&time_continue=1&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fwww.kaggle.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.kaggle.com)
+- **YouTube Link:** [YouTube] (https://youtu.be/GJh5DYwR64U?si=OIk1PKfA5avNpyrf)
 
 ---
 
